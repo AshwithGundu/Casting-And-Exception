@@ -1,0 +1,254 @@
+Student
+IOS,HCI,DV
+4
+Mike Husser
+Book
+Daniel Liang Arml,Paul Tan,Tan Teck 
+2011
+2
+SCIENCE_FICTION
+The Hunger Games
+Book
+Kathy Sierra,James Goss,Lisa tek
+2010
+4
+POETRY
+The Giver
+Device
+Android Charger
+DVD
+R
+1.2
+HarryPoter1
+Dates
+12/30/2017 10:00:00
+12/30/2017 10:05:00
+Faculty
+MSACS
+Sansa Stark
+34
+Book
+John Snow Targaryan,Ross Taylor,John Ben 
+2011
+2
+FANTASY
+The Hobbit
+Book
+James Tolkie,George Patrick,Neil Brandon
+2010
+4
+POETRY
+Leaves of Grass
+Device
+Android Charger
+DVD
+PG
+2.4
+HarryPoter3
+Dates
+11/30/2017 10:00:00
+12/30/2017 10:05:00
+Student
+Android,PM,ITM
+15
+Vamsi Ravva
+Book
+Daniel Liang Arml,Paul Tan,Tan Teck 
+2011
+2
+SCIENCE_FICTION
+The Hunger Games
+Book
+Kathy Sierra,James Goss,Lisa tek
+2010
+4
+POETRY
+The Giver
+Device
+Android Charger
+DVD
+R
+1.2
+HarryPoter1
+Dates
+12/30/2017 10:00:00
+12/30/2017 11:05:00
+Student
+Web,NS,DA
+16
+Jacob
+Book
+James McGuire,Erika Mitchell James,Donald Bain,Jon Land
+2010
+4
+ROMANCE
+Beautiful Disaster
+Book
+Morgan Ralf Jess,Carol Judith,Ennis Joanne Stephens
+2003
+3
+DRAMA
+Murder, She wrote
+Device
+Laptop
+DVD
+NC_17
+2.7
+Effortless
+DVD
+PG_13
+2.4
+Bared to you
+Device
+Ipad
+Dates
+10/25/2017 10:00:00
+10/30/2017 11:05:00
+Student
+Physics,Chemistry,Maths
+12
+Pavan Kalyan
+Book
+Tammara Webber Day,Judith Ralf Morgan 
+2002
+4
+HORROR
+The Mom
+Book
+James Tolkie,George Patrick,Neil Brandon
+2010
+4
+POETRY
+Twinkle
+Device
+Iphone Charger
+DVD
+PG_13
+2.4
+The Lunch Box
+Dates
+11/06/2017 10:00:00
+11/25/2017 10:05:00
+Student
+Biology,Maths,Science
+10
+Junior NTR
+Book
+Tammara Webber,Joanne K Rowling
+2011
+1
+FANTASY
+The Ralf
+Book
+James Tolkie,George Patrick,Neil Brandon
+2010
+4
+POETRY
+Can't Live
+Device
+Android Charger
+DVD
+R
+2.4
+Half Girlfriend
+Dates
+12/05/2017 10:00:00
+12/30/2017 10:05:00
+Faculty
+MSACS
+Rob Stark
+30
+Book
+Veronica Roth,Donald Bain,Reaveley Ralf Jess
+2016
+4
+FANTASY
+The One
+Book
+James Tolkie,George Patrick,Neil Brandon
+2010
+4
+POETRY
+Leaves of Grass
+Device
+Android Charger
+DVD
+PG
+2.4
+HarryPoter3
+Dates
+10/30/2017 10:00:00
+11/07/2017 10:00:00
+Faculty
+MSACS
+Frank Herbert
+25
+Book
+John Snow Targaryan,Ross Taylor,John Ben 
+2011
+3
+HORROR
+Oh My Ghost
+Book
+Collen Hoover,Tammara Webber,Donald Bain Land
+2010
+1
+POETRY
+Beautiful Weather
+Device
+Projector
+Device
+Data cable
+Device
+Iphone Charger
+DVD
+PG_13
+2.8
+Gone Days
+Dates
+11/29/2017 10:00:00
+12/12/2017 10:05:00
+Faculty
+MSIS
+Hari Kiran
+26
+Book
+John Green,Ralls Kim,Gambardella Matthew Herbert
+2005
+3
+FANTASY
+Easy
+Device
+Tablet
+DVD
+PG_13
+2.6
+Divergent
+Dates
+10/04/2017 10:00:00
+10/12/2017 10:05:00
+Faculty
+MSACS
+Charles Kero
+24
+Book
+John Snow Targaryan,Ross Taylor,John Ben 
+2011
+2
+FANTASY
+The Hobbit
+Book
+James Tolkie,George Patrick,Neil Brandon
+2010
+4
+POETRY
+Leaves of Grass
+Device
+Data Cable
+DVD
+R
+2.7
+The Fault in our stars
+Dates
+11/08/2017 09:00:00
+11/23/2017 09:05:00
